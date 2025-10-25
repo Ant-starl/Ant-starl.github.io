@@ -1,0 +1,40 @@
+ body {
+ 
+font-size: 20px;
+font-family: Georgia, serif ;
+background-image: url('/images/index2body.jpg');
+background-size: cover;
+margin: 0;
+padding: 20px;
+
+}
+
+    table {
+      border-collapse: collapse; 
+    }
+    th, td {
+      border: 2px solid black;
+      padding: 4px;
+      text-align: center; 
+      vertical-align: middle; }
+
+        caption {
+      caption-side: center ; 
+    }  
+
+footer {
+    
+text-align: center;
+margin-top: 20px;
+font-style: italic;
+
+}    
+
+img {
+    width: 15%; 
+    float: left;
+    padding: 50px;
+    
+    
+    
+   }

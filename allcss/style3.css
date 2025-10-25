@@ -1,0 +1,53 @@
+body {
+ 
+font-size: 20px;
+font-family: Georgia, serif ;
+background-image: url('/images/index2body.jpg');
+background-size: cover;
+margin: 0;
+padding: 20px;
+
+}
+
+
+header {
+
+color: rgb(30, 29, 29);
+
+padding: 10px;
+
+text-align: center;
+
+
+}
+
+main {
+
+
+margin-top: 20px;
+
+}
+
+footer {
+    
+
+text-align: center;
+
+margin-top: 20px;
+
+font-style: italic;
+
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    
+} 
+
+image-container {
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+
+}    

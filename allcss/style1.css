@@ -1,0 +1,42 @@
+body {
+ 
+font-size: 20px;
+font-family: Georgia, serif ;
+background-image: url('/images/header.jpg');
+background-size: cover;
+margin: 0;
+padding: 20px;
+
+}
+
+
+header {
+
+color: rgb(30, 29, 29);
+
+padding: 10px;
+
+text-align: center;
+
+
+}
+
+main {
+
+
+margin-top: 20px;
+
+}
+
+footer {
+    
+
+text-align: center;
+
+margin-top: 20px;
+
+font-style: italic;
+
+}
+
+    
